@@ -6,7 +6,7 @@ This repository contains embedded text chunks (vector data) from two classical t
 
 Jaimini Sutras by Sage Jaimini
 
-Bhrigu Samhita by Sage Bhrigu
+Bhrigu Sutras by Sage Bhrigu
 
 These embeddings are meant for use in AI-based applications like semantic search, astrology Q&A systems, or educational tools.
 
