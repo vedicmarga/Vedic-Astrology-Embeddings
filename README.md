@@ -1,7 +1,7 @@
 # Vedic-Astrology-Embeddings
 This repository contains embedded text chunks (vector data) from few classical texts in Vedic astrology
 
-Vedic Astrology Embeddings – Jaimini Sutras & Bhrigu Samhita
+Vedic Astrology Embeddings – Jaimini Sutras & Bhrigu Sutra
 This repository contains embedded text chunks (vector data) from two classical texts in Vedic astrology:
 
 Jaimini Sutras by Sage Jaimini
@@ -16,9 +16,9 @@ jaimini-sutras_chunks_embedded.json
 
 Vector embeddings of selected chapters from the Jaimini Sutras.
 
-bhrigu-samhita_chunks_embedded.json
+bhrigu-sutras_chunks_embedded.json
 
-Vector embeddings of segments from the Bhrigu Samhita.
+Vector embeddings of segments from the Bhrigu Sutras.
 
 Each JSON file contains a list of chunks with:
 
@@ -36,7 +36,7 @@ Train or fine-tune astrology-focused AI models.
 
 📖 Source
 
-These texts are based on public or freely available versions of the Jaimini Sutras and Bhrigu Samhita. The content has been chunked and embedded using modern AI tools for better machine understanding.
+These texts are based on public available versions of the Jaimini Sutras and Bhrigu Sutras. The content has been chunked and embedded using modern AI tools for better machine understanding.
 
 If you’re the original owner of any source material and wish it to be credited or removed, please open an issue.
 
